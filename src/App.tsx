@@ -17,27 +17,7 @@ function App() {
     <>
       <GlobalStyles />
 
-      {/* Lesson 05. TypeScript */}
-      {/* <Lesson05 /> */}
-
-      {/* Lesson 06. Component typing */}
-      {/* <Lesson06 /> */}
-
-      {/* Lesson 07. Styling components */}
-      {/* <Lesson07 /> */}
-
-      {/* Lesson 08. Controlled and uncontrolled components */}
-      {/* <Lesson08 /> */}
-
-      {/* Homework 08. Controlled components */}
-      {/* <Homework08 /> */}
-
-      {/* Lesson 09 */}
-      {/* <Lesson09 /> */}
-
-      {/* Lesson 10. Formik, Yup */}
-      {/* <Lesson10 /> */}
-
+    
       {/* Homework 10. Get Consultation */}
       <Homework10 />
     </>
