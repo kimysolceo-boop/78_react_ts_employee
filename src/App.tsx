@@ -10,7 +10,8 @@ import GlobalStyles from "./styles/GlobalStyles";
 
 // Homeworks imports
 // import Homework08 from "./homeworks/Homeworks08/Homework08";
-import Homework10 from "./homeworks/Homework10/Homework10";
+// import Homework10 from "./homeworks/Homework10/Homework10";
+import Lesson11 from "./lessons/Lesson11/Lesson11";
 
 function App() {
   return (
@@ -19,7 +20,9 @@ function App() {
 
     
       {/* Homework 10. Get Consultation */}
-      <Homework10 />
+      {/* <Homework10 /> */}
+      {/* Lesson 11. Formik, Yup, React Query */}
+      <Lesson11 />
     </>
   );
 }

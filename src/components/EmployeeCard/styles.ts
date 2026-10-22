@@ -4,8 +4,9 @@ export const CardWrapper = styled.div`
   display: flex;
   flex-direction: column;
   gap: 22px;
-  width: 260px;
+  width: 320px;
   padding: 30px;
+  box-sizing: border-box;
   background-color: white;
 `;
 
